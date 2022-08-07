@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: start;
+}
+.chania{
+    background-color: rgb(175, 70, 175);
+    color: white;
+    margin: .5em;
+    padding: 2.5em 1em;
+    text-align: start;
+}

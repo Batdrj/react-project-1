@@ -1,0 +1,10 @@
+.what{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: .5em;
+    background-color: aqua;
+    width: 80%;
+    margin-left: 2.5em;
+}
