@@ -1,0 +1,11 @@
+ .order{
+    position: fixed;
+    right: 0;
+    top: 0;
+    border: 1px dotted purple;
+    width: 15vw;
+    height: 100vh;
+} 
+.order-container{
+    position: relative;
+}
